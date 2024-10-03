@@ -1,0 +1,41 @@
+<center>
+        <h1>Contact Form</h1>
+        </center>
+        <hr />
+        <h3 style="color: red;">*Required</h3>
+        <center>
+        <form action="">
+          <table>
+            <tr>
+              <th>*Name:</th>
+              <th><input type="text" placeholder="First&Last" /></th>
+            </tr>
+            <tr>
+              <th>*Email:</th>
+              <th><input type="text" placeholder="you@domain.com" /></th>
+            </tr>
+            <tr>
+              <th>*Message:</th>
+              <th>
+                <input
+                  type="text"
+                  style="width: 300px; height: 80px"
+                  placeholder="Comments"
+                />
+              </th>
+            </tr>
+            <tr>
+              <th>*Human or Bot:</th>
+              <th><h4>Six+6=?</h4></th>
+            </tr>
+            <tr>
+              <th></th>
+              <th><input type="number" placeholder="Enter sum in digits" /></th>
+            </tr>
+            <tr>
+              <th></th>
+              <th><button class="btn btn-outline-primary">SUBMIT</button></th>
+            </tr>
+          </table>
+        </form>
+      </center>
